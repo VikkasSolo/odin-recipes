@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    text-align: center;
+    font-family: "Monaco", "Courier New", monospace;
+}
+
+h1 {
+    color:antiquewhite;
+}
+
+h4,
+h3 {
+    text-align: left;
+    color: aquamarine;
+}
+
+.image {
+    height: auto;
+    width: 250px;
+}
+
+li,
+p {
+    text-align: left;
+    color: aliceblue; 
+}
